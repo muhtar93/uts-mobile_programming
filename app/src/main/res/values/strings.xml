@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Muhtar_361661001</string>
+    <string name="masukan_id">Masukan ID</string>
+    <string name="masukan_pass">Masukan Password</string>
+    <string name="login">login</string>
+    <string name="exit">exit</string>
+    <string name="ok">ok</string>
+</resources>
